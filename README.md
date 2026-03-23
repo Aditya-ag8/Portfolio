@@ -89,7 +89,7 @@ portfolio/
 | 📧 Email | adityakmr010603@gmail.com |
 | 💼 LinkedIn | [Aditya Singh](https://linkedin.com/in/aditya-singh) |
 | 🐙 GitHub | [Aditya-ag8](https://github.com/Aditya-ag8) |
-| 📱 Phone | +91 84298 59240 |
+| 📱 Phone | +91 84XXXXXXXXX |
 
 ---
 
